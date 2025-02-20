@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+The part of this assignment I struggled with the most was handling the strings to do the line by line output in the process_file assignment. I ended up asking copilot to help with the solution and I looked at the solution file to help me understand how to parse the strings. I learned about the .splitlines() function and how it can be used to help separate and sort parts of a file.

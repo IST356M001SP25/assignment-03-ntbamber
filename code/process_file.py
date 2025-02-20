@@ -6,7 +6,6 @@ Screenshot available as process_file.png
 '''
 import packaging
 import streamlit as st
-import json
 
 st.title("Process One Package 📦")
 uploaded_file = st.file_uploader("Upload a file containing package information", type="txt")
